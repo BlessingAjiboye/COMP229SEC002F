@@ -4,10 +4,6 @@
 //console.log(flag);
 //import {halfOf,multiply} from './lib.js';
 //console.log(halfOf(84));
-//console.log(multiply(5, 2));
-
-import doSomething from './doSomething.js';
-doSomething();
-
+console.log(multiply(5, 2));
 
 
